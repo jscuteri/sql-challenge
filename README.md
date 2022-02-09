@@ -2,7 +2,7 @@
 
 # Background
 
-Organized multiple CSV files and created a SQL database using tables and queries. Skills utilized include both Data Engineering/Data Modeling, Data Analysis and
+Organized multiple CSV files and created a SQL database using tables and queries. Skills utilized include both Data Engineering/Data Modeling, Data Analysis, and
 Data Engineering.
 
 •	Used the information in the six CSV files to create a table schema. Incorporated data types, primary keys, foreign keys, and other constraints.
